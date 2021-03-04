@@ -1,0 +1,16 @@
+h1{
+    color:darkblue
+}
+h2{
+
+    color:darkcyan
+}
+*{
+
+    border:wheat solid;
+    background-color:black
+}
+.dog{
+    display:flex;
+    justify-content:space-between
+    }
